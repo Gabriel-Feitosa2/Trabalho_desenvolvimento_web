@@ -1,0 +1,12 @@
+
+
+.image {
+    min-height: 100%;
+    background-image: url(../../assets/landingPageImage.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100vh;
+    width: 100vw;
+    
+}
